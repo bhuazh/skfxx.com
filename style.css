@@ -1,0 +1,36 @@
+.md-grid {
+    max-width: 1100px; 
+}
+
+.md-typeset__scrollwrap {
+    text-align: center;
+}
+
+.md-main__inner {
+    margin-top: 0;
+}
+
+.md-nav__title {
+    display: none;
+}
+
+.md-typeset h1 {
+    font-weight: 600;
+    font-size: 18px;
+    color: red;
+    font-family: PingFangSC-Regular,PingFang SC,Avenir,Helvetica,Arial,sans-serif;
+}
+
+.md-typeset h2 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 34px;
+    border-bottom: 1px solid #ddd;
+    font-family: PingFangSC-Regular,PingFang SC,Avenir,Helvetica,Arial,sans-serif;
+}
+
+.md-typeset {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: PingFangSC-Regular,PingFang SC,Avenir,Helvetica,Arial,sans-serif;
+}
